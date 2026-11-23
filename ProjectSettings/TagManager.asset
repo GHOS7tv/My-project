@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Killer
   - Tunnel
+  - Trigger
   layers:
   - Default
   - TransparentFX
